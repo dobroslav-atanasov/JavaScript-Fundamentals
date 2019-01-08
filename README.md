@@ -6,34 +6,23 @@ SoftUni course JavaScript Fundamentals: All tasks with their solutions.
 	<a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="300" align="center"></a>
 <p>
 
-## Course: [C# MVC Frameworks ASP.NET Core](https://softuni.bg/trainings/2197/csharp-mvc-frameworks-asp-net-core-november-2018)
-SoftUni course C# MVC Frameworks ASP.NET Core - November 2018: All tasks with their solutions.
+## Course: [JavaScript Fundamentals](https://softuni.bg/trainings/2247/js-fundamentals-january-2019)
+SoftUni course JavaScript Fundamentals - January 2018: All tasks with their solutions.
 
 ## Course content:
-- ASP.NET Core Introduction
-- ASP.NET Core MVC Introduction
-- Razor: Views and Layouts
-- Application Flow, Filters and Middleware
-- Working with Data
-- Security and Identity
-- Architecture
-- Unit Testing
-- Deployment and CI
-- ASP.NET Core Web Api and JWT
-- ASP.NET Singalr
-- Blazor
+- Syntax and Operators
+- Document Object Model
+- Functions and Logic Flow
+- Arrays and Matrices
+- Strings and RegExp
+- Objects and JSON
+- Dom Events
 
 ## Repository content:
 
 > **Homeworks**
 
-№	|Tasks												|Descriptions																										|Exercises																																	|Progress																														
-:--:|---------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------:
-1	|Introduction to ASP.NET Core						|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Fdmc)										|![Progress](http://progressed.io/bar/100?title=completed)
-2	|Razor: Views and Layouts							|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Chushka-ASP)								|![Progress](http://progressed.io/bar/100?title=completed)
-3	|Application Flow, Filters and Middleware			|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Eventures)								|![Progress](http://progressed.io/bar/100?title=completed)
-4	|Working with Data									|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Eventures)								|![Progress](http://progressed.io/bar/100?title=completed)
-5	|Security and Identity								|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Eventures)								|![Progress](http://progressed.io/bar/100?title=completed)
-6	|Advanced Topics									|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Eventures)								|![Progress](http://progressed.io/bar/100?title=completed)
-7	|Advanced Topics - Architecture						|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Eventures)								|![Progress](http://progressed.io/bar/100?title=completed)
-8	|Unit Testing										|[Description](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Resources)		|[Exercises](https://github.com/dobroslav-atanasov/CSharp-MVC-Frameworks-ASP.NET-Core/tree/master/Eventures)								|![Progress](http://progressed.io/bar/100?title=completed)
+№   |Tasks								|Descriptions																									| Labs																																| Exercises																																		|More Exercises	 																																	|Progress																													
+:--:|-----------------------------------|:-------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:
+1	|Data Types and Variables			|[Description](https://github.com/dobroslav-atanasov/Programming-Fundamentals-Extended/tree/master/Resources)	|[Lab](https://github.com/dobroslav-atanasov/Programming-Fundamentals-Extended/tree/master/01.%20DataTypes-Lab)  					|[Exercises](https://github.com/dobroslav-atanasov/Programming-Fundamentals-Extended/tree/master/02.%20DataTypes-Exercises)  					|[More Exercises](https://github.com/dobroslav-atanasov/Programming-Fundamentals-Extended/tree/master/03.%20DataTypes-MoreExercises)				|![Progress](http://progressed.io/bar/100?title=completed)
+2	|Methods							|[Description](https://github.com/dobroslav-atanasov/Programming-Fundamentals-Extended/tree/master/Resources)	|[Lab](https://github.com/dobroslav-atanasov/Programming-Fundamentals-Extended/tree/master/04.%20Methods-Lab) 						|[Exercises](https://github.com/dobroslav-atanasov/Programming-Fundamentals-Extended/tree/master/05.%20Methods-Exercises)						|																																					|![Progress](http://progressed.io/bar/100?title=completed)

@@ -12,19 +12,17 @@ SoftUni course JavaScript Fundamentals - January 2018: All tasks with their solu
 - Functions and Logic Flow
 - Arrays and Matrices
 - Strings and RegExp
-- Objects and JSON
-- Dom Events
+- Objects and JSON. DOM Events
 
 ## Repository content:
 
 > **Homeworks**
 
-№   |Tasks						|Descriptions																									| Labs																																| Exercises																																		|More Exercises	 																																	|Progress																													
-:--:|---------------------------|:-------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:
-1	|Syntax and Operators		|[Description]																									|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
-2	|Document Object Model		|[Description]																									|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
-3	|Functions and Logic Flow	|[Description]																									|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
-4	|Arrays and Matrices		|[Description]																									|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
-5	|Strings and RegExp			|[Description]																									|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
-6	|Objects and JSON			|[Description]																									|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
-6	|Dom Events					|[Description]																									|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
+№   |Tasks							|Descriptions																							| Labs																																| Exercises																																		|More Exercises	 																																	|Progress																													
+:--:|-------------------------------|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:
+1	|Syntax and Operators			|[Description](https://github.com/dobroslav-atanasov/JavaScript-Fundamentals/tree/master/Resources)		|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
+2	|Document Object Model			|[Description]																							|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
+3	|Functions and Logic Flow		|[Description]																							|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
+4	|Arrays and Matrices			|[Description]																							|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
+5	|Strings and RegExp				|[Description]																							|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)
+6	|Objects and JSON. DOM Events	|[Description]																							|[Lab]																											 					|[Exercises]																												 					|[More Exercises]																																	|![Progress](http://progressed.io/bar/0)

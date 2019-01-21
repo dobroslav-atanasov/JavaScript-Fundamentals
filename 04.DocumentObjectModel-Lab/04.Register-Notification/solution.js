@@ -7,19 +7,21 @@ function register() {
   let validEmail = pattern.exec(email);
 
   if (username && password && validEmail) {
+    let registrationElement = document.createElement('h1');
+    registrationElement.textContent = 'Successful Registration!';
+
+    let newLine = document.createElement('br');
+    let secondNewLine = document.createElement('br');
+    let sectionElement = document.getElementById('result');
+    sectionElement.appendChild(registrationElement);
+    sectionElement.innerHTML += `Username: ${username}`;
+    sectionElement.appendChild(newLine);
+    sectionElement.innerHTML += `Email: ${email}`;
+    sectionElement.appendChild(secondNewLine);
+    sectionElement.innerHTML += `Password: ${'*'.repeat(password.length)}`;
+
     setTimeout(() => {
-      let registrationElement = document.createElement('h1');
-      registrationElement.textContent = 'Successful Registration!';
-  
-      let newLine = document.createElement('br');
-      let secondNewLine = document.createElement('br');
-      let sectionElement = document.getElementById('result');
-      sectionElement.appendChild(registrationElement);
-      sectionElement.append(`Username: ${username}`);
-      sectionElement.appendChild(newLine);
-      sectionElement.append(`Email: ${email}`);
-      sectionElement.appendChild(secondNewLine);
-      sectionElement.append(`Password: ${'*'.repeat(password.length)}`);
+      sectionElement.innerHTML = '';
     }, 5000);
   }
 }

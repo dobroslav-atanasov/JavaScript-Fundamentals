@@ -7,7 +7,7 @@ function solve() {
 
   function printResult(firstNumber, secondNumber) {
     for (let i = firstNumber; i <= secondNumber; i++) {
-      let divElement = document.createElement('div');
+      let divElement = document.createElement('p');
       divElement.innerHTML = `${i} * ${secondNumber} = ${secondNumber * i}`;
       result.appendChild(divElement);
     }

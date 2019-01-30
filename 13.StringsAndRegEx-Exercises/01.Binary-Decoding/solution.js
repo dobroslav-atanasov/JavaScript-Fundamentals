@@ -5,6 +5,11 @@ function solve() {
     let binaryArray = getBinaryElement(binary);
     let result = getSymbols(binaryArray);
 
+    result = result.replace(/[,]/g, '');
+    result = result.replace(/[^\w\s\*]/g, '');
+    result = result.replace(/[0-9_]/g, '');
+    result = result.replace('*', ' ');
+
     let resultElement = document.getElementById('result');
     resultElement.textContent = result;
 

@@ -32,3 +32,4 @@ SoftUni course JavaScript Fundamentals - January 2018: All tasks with their solu
 |Date				|Descriptions																																|Solutions
 |:-----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------:
 |05 February 2019	|[Description](https://github.com/dobroslav-atanasov/JavaScript-Fundamentals/tree/master/Resources/Exam-Preparation)						|[Solution](https://github.com/dobroslav-atanasov/JavaScript-Fundamentals/tree/master/Exam-Preparation)
+|10 February 2019	|[Description](https://github.com/dobroslav-atanasov/JavaScript-Fundamentals/tree/master/Resources/Exam-10.02.2019)							|[Solution](https://github.com/dobroslav-atanasov/JavaScript-Fundamentals/tree/master/Exam-01.02.2019)
